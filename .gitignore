@@ -1,2 +1,5 @@
-tinytetris
-tinytetris-commented
+#ignore All .log files
+*.log
+
+#ignore all files in any directory named temp
+temp/
